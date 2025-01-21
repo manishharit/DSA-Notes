@@ -34,4 +34,5 @@
     - Refactor and optimize the code as needed.
 
 8. **Example**:
-    - Refer to **Problem 1** as a concrete example of how this template is applied.
+    - Refer to **FindMaxSumSubArray** as a concrete example of how this template is applied.
+   - Refer to the [FindMaxSumSubArray.java](./FindMaxSumSubArray.java) class for a concrete implementation of this template.
