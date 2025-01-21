@@ -18,9 +18,12 @@ public class Test {
         int sum =0;
 
         while(j<arr.length){
+            // calculation
             sum += arr[j];
+            // move j till get window size
             if(j-i+1<k){
                 j++;
+                // once get size get ans and move window
             }else if(j-i+1==k){
                 max = Math.max(sum,max);
                 sum = sum-arr[i];
