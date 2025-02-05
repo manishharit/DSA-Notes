@@ -38,3 +38,4 @@
    - Refer to the [FindMaxSumSubArray.java](./FindMaxSumSubArray.java) class for a concrete implementation of this template.
    - Refer to the [FirstNegativeSubArray.java](./FirstNegativeSubArray.java) class for advanced template version.
    - Refer to the [Anagram](./Anagram.java)
+   - Refer to the [MaxElementOfSubArray](./MaxElementOfSubArray.java)
