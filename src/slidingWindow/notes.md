@@ -33,7 +33,8 @@
 7. **Optimize**:
     - Refactor and optimize the code as needed.
 
-8. **Example**:
-    - Refer to **FindMaxSumSubArray** as a concrete example of how this template is applied.
+8. **Problem Solution**:
+   - Refer to **FindMaxSumSubArray** as a concrete example of how this template is applied.
    - Refer to the [FindMaxSumSubArray.java](./FindMaxSumSubArray.java) class for a concrete implementation of this template.
    - Refer to the [FirstNegativeSubArray.java](./FirstNegativeSubArray.java) class for advanced template version.
+   - Refer to the [Anagram](./Anagram.java)

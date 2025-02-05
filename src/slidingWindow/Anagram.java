@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Anagram {
+    // problem like - https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1
     public static void main(String[] args) {
         String s = "aabaabaa";
         String subArr = "aaba";
