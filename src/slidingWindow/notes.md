@@ -67,3 +67,4 @@
 5. **Problem Solution**:
    - Refer to the [LongestSubArrayWithSumK](./LongestSubArrayWithSumK.java) to get basic idea for variable window
    - Refer to the [LongestSubStringWithUniqueK](./LongestSubStringWithUniqueK.java) class for a concrete implementation of this template.
+   - Refer to the [LongestSubStringWithOutRepeatingChar](./LongestSubStringWithOutRepeatingChar.java)
