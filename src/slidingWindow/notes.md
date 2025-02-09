@@ -69,3 +69,4 @@
    - Refer to the [LongestSubStringWithUniqueK](./LongestSubStringWithUniqueK.java) class for a concrete implementation of this template.
    - Refer to the [LongestSubStringWithOutRepeatingChar](./LongestSubStringWithOutRepeatingChar.java)
    - Refer to the [MaxConsecutiveOnesLeetCode1004](./MaxConsecutiveOnesLeetCode1004.java)
+   - Refer to thr [GrumpyBookstoreOwner](./GrumpyBookstoreOwner.java)
